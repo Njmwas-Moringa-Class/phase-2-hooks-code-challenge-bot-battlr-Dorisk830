@@ -1,5 +1,5 @@
 import React from "react";
-import BotCard from "./BotCard"; // Assuming you have a BotCard component
+import BotCard from "./BotCard";
 
 function BotCollection({ botCollection, enlistBot }) {
   return (
