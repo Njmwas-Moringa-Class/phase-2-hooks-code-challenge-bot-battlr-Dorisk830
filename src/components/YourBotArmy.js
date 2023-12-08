@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import BotCard from "./BotCard"; // Assuming you have a BotCard component
+import BotCard from "./BotCard"; 
 
 function YourBotArmy({ yourBotArmy, enlistBot, releaseBot, dischargeBot }) {
   return (
